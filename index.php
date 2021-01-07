@@ -5,7 +5,7 @@
 	<link href="bootstrap.css" rel="stylesheet" />
     <script src="jquery.min.js"></script>
     <script src="bootstrap.min.js"></script>
-    <script src="searchSelect.js"></script>
+    <script src="search-select.min.js"></script>
     <link href="searchSelect.css" rel="stylesheet" />
 </head>
 <body>
