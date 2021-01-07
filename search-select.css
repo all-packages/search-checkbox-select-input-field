@@ -1,0 +1,11 @@
+body{margin:0;}
+.selectOptionsDiv{
+	position: absolute;
+    height: 350px;
+    overflow-y: scroll;
+    width: 91%;
+    z-index: 30;
+    display: none;
+    background-color: white;
+    border: 1px solid darkgray;
+}
